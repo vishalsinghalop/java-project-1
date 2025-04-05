@@ -1,0 +1,24 @@
+Lakshya,27,10
+Lakshya,18,0
+Lakshya,18,20
+Lakshya,18,0
+Lakshya,18,0
+Lakshya,27,10
+Lakshya,21,0
+Lakshya,18,0
+Lakshya,15,30
+Lakshya,20,10
+Viru,14,20
+Viru,18,40
+Viru,20,40
+Lakshya Don,20,100
+Lakshya,18,60
+Vikas,27,20
+Lakshya,27,0
+null,17,50
+null,18,0
+Rakesh Chaudhary,23,0
+Lakshya,22,0
+Lakshya,10,0
+null,18,0
+Lakshya,12,0
